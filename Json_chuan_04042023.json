@@ -1,0 +1,734 @@
+{
+  "thong_tin_co_ban": {
+    "image_medium":
+    "name": "Nguyen Xuan Bac",
+    "vnpt_ma_nhan_vien": "010010111",
+    "loaicanbo_id": 112,
+    "vnpt_tengoikhac": "Nguyen Xuan Bac1",
+    "gioi_tinh": "nam",
+    "birthday": "1990-10-10",
+    "department_id": 121212,
+    "job_id": 1212,
+    "vitri_congviec": 1212,
+    "ngay_bo_nhiem": "2023-04-03",
+    "ngay_bo_nhiem_lai": "2023-04-03",
+    "chucvu_kiemnhiem_ids": [ 25, 28 ],
+    "chucvu_quyhoach_ids": [ 25, 28 ],
+    "manager": true,
+    "parent_id": 1,
+    "main_job": "Công việc chính được giao",
+    "vieclam_launhat": "Công việc làm lâu nhất",
+    "work_email": "dem1o@vnpt.vn",
+    "mobile_phone": "0987123533",
+    "work_phone": "09660914315",
+    "vnpt_lien_he_khan_cap": "Liên hệ khẩn cấp",
+    "socancuoc": "121321321399",
+    "vnpt_ngay_cap_can_cuoc": "2023-04-03",
+    "vnpt_noi_cap_can_cuoc": "Nơi cấp",
+    "identification_id": "123456787",
+    "vnpt_ngay_cap_cmnd": "2023-04-03",
+    "vnpt_noicap_cmnd": "HN",
+    "so_the_bhyt": "123456799455",
+    "so_so_bhxh": "3456799455",
+    "hokhauthuongtru_tinh_thanhpho_id": 67,
+    "hokhauthuongtru_xa_phuong_id": 11690,
+    "hokhauthuongtru_quan_huyen_id": 924,
+    "hokhauthuongtru_thon_xom": "121212",
+    "noiohiennay_tinh_thanhpho_id": 66,
+    "noiohiennay_quan_huyen_id": 1231,
+    "noiohiennay_xa_phuong_id": 16352,
+    "noiohiennay_thon_xom": "1111",
+    "address_home": "Hải Phòng",
+    "noisinh_huyen": "NSQuận/ Huyện",
+    "noisinh_xa": "NSXã/ Phường",
+    "noisinh_tinh": "NSTỉnh/ Thành phố1",
+    "place_of_birth": "NSChi tiết",
+    "vnpt_nguyen_quan": "NQ",
+    "quequan_quan_huyen_id": 971,
+    "quequan_tinh_thanhpho_id": 71,
+    "quequan_xa_phuong_id": 12395,
+    "quequan_thon_xom": "434343",
+    "country_id": 30,
+    "vnpt_dan_toc": 30,
+    "vnpt_ton_giao": 4,
+    "marital": "divorced",
+    "vnpt_thanh_phan_gia_dinh": 7,
+    "vnpt_thanh_phan_ban_than": 5,
+    "nghenghieptruoctuyendung": "Nghề nghiệp trước tuyển dụng",
+    "ngaytuyendung": "2023-04-03",
+    "coquantuyendung": "Cơ quan, tổ chức, đơn vị tuyển dụng",
+    "nghenghieptuyendung": "Nghề nghiệp, vị trí tuyển dụng",
+    "vnpt_ngay_vao_don_vi": "2019-08-31",
+    "hinhthuctd": "xettuyen",
+    "vnpt_ngay_vao_don_vi_ct": "2023-04-03",
+    "sotruong_congtac": "Sở trường công tác",
+    "hoc_ham_id": 1,
+    "namphong_hocham": "2026-01-01",
+    "chuyennganh_hocham_id": 3,
+    "danhhieuphongtang": 5,
+    "namphongtang": "2013",
+    "chucdanhkhoahoc_id": 1,
+    "namphong_chucdanh": "2022",
+    "vnpt_so_nguoi_phu_thuoc": 5,
+    "vnpt_ma_so_thue_ca_nhan": "123546799877",
+    "doituong_chinhsach_ids": [ 2, 8, 7, 6, 11, 19 ],
+    "lathuongbinh": true,
+    "giadinhchinhsach_ok": true,
+    "cocongcachmang_ok": true,
+    "hang_thuongbinh_id": 1,
+    "hangthuongbinh": "Hình thức thương tật1",
+    "namthuongbinh": "2022",
+    "is_daibieu_hdnd": true,
+    "db_hdnd": "hdnd_tinh",
+    "is_daibieu_quochoi": true,
+    "vnpt_la_quan_nhan_ok": true,
+    "ngay_tham_gia_cm": "2023-04-03",
+    "ngaynhapngu": "2023-04-03",
+    "ngayxuatngu": "2023-04-03",
+    "quanhamcaonhat": 9,
+    "vnpt_lydonhapngu": "Lý do nhập ngũ\n"
+  },
+  "luong_phu_cap": {
+    "salary_fluctuations_history_ids": [
+      {
+        "loaicanbo_id": 1,
+        "job_id": 6,
+        "pay_forms": "2",
+        "bacluong_id": 11,
+        "ngay_hieuluc": "2023-04-03",
+        "he_so_theo_bac": 4.4,
+        "he_so": 4.4, // Mắc định bằng he_so_theo_bac
+        "ngay_tinh_nangluong": "2023-04-03",
+        "ngay_dukien_nangluong": "2024-04-03",
+        "phucap_vuotkhung": 1,
+        "loai_nangluong": "1",
+        "phucap_chenhlech_baoluu": 0,
+        "mucluong_thoathuan": 0,
+        "muc_tyle": "1",
+        "ngayky_totrinh": null,
+        "nguoi_quyetdinh": "",
+        "so_totrinh": "",
+        "so_quyetdinh": "",
+        "ngay_quyetdinh": null,
+        "noi_quyetdinh": "",
+        "notes": "",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ],
+
+    "allowance_history_ids": [
+      {
+        "allowance_config_id": 1,
+        "allowance_type": "heso",
+        "date_start": "2023-04-03",
+        "date_end": "2023-05-04",
+        "allowance_bhxh": true,
+        "heso": 1,
+        "allowance_department": true,
+        "is_extension": true,
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ],
+        "notes": false
+      }
+    ]
+  },
+  "quan_he_gia_dinh": {
+    "vnpt_thongtingiadinh_ids": [
+      {
+        "vnpt_moi_quan_he_id": 2,
+        "name": "BÙI THỊ CHIỂN",
+        "vnpt_nam_sinh": 1949,
+        "nguoiphuthuoc": true,
+        "thuoccongty": true,
+        "damat": true,
+        "quequan_nghenghiep_chucvu": "",
+        "notes": ""
+      }
+    ]
+  },
+  "trinh_do_dao_tao": {
+    "datotnghieplop_id": 28,
+    "vnpt_trinhdodaotao_id": 11,
+    "hinhthuc_daotao": 11,
+    "vnpt_chuyen_nganh_dao_tao": 1212,
+    "vnpt_ngay_tot_nghiep": "2023-01-01",
+    "vnpt_noi_dao_tao": "sdsdsds",
+    "is_dt_nuoc_ngoai": "False",
+    "ngoaingu_caonhat_id": "1212",
+    "lyluanchinhtri": "áasasasa",
+    "tinhoc_caonhat_id": "dsadasd",
+    "quanlynhannuoc": "asasa",
+    "kynang_mem": [ 1 ],
+    "vnpt_daotao_chungchi_ids": [
+      {
+        "country_id": 241,
+        "vnpt_ngay_bat_dau": "2023-01-01",
+        "vnpt_ngay_ket_thuc": "2023-09-01",
+        "cosodaotao_ngoaidanhmuc": false,
+        "vnpt_he_dao_tao": 1,
+        "vnpt_co_so_dao_tao": 9000,
+        "coso_daotao_ngoainuoc": "",
+        "vanbang_chungchi": "sadda",
+        "trinhdodaotao": 11,
+        "xeploaitotnghiep": 2,
+        "linhvucdaotao_id": 1124,
+        "nam_totnghiep": "2019-01-01",
+        "vnpt_chuyen_nganh_dao_tao_id": 1683,
+        "trinhdo_chinh": false,
+        "notes": "",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ],
+
+    "lyluanchinhtri_ids": [
+      {
+        "nhom_daotao": "LLCT", // Cột này mã cần thiết
+        "date_start": "2023-01-01",
+        "date_end": "2023-11-01",
+        "hedaotao_id": 1,
+        "lyluanchinhtri_id": 9,
+        "vanbang_duoccap": "Quản lý tổ chức",
+        "cosodaotao_ngoaidanhmuc": false,
+        "cosodaotao_id": 9000,
+        "cosodaotao": "Trường Đại học FPT",
+        "notes": "",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ],
+
+    "quanlynhanuoc_ids": [
+      {
+        "nhom_daotao": "QLNN", // Cột này mã cần thiết
+        "date_start": "2023-01-01",
+        "date_end": "2023-12-01",
+        "hedaotao_id": 2,
+        "quanlynhanuoc_id": 12,
+        "vanbang_duoccap": "Quản lý tổ chức",
+        "cosodaotao_ngoaidanhmuc": false,
+        "cosodaotao_id": 9000,
+        "cosodaotao": "Trường Đại học FPT",
+        "notes": "",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ],
+    "trinhdotinhoc_ids": [
+      {
+        "nhom_daotao": "TINHOC", // Cột này mã cần thiết
+        "date_start": "2023-01-01",
+        "date_end": "2023-08-01",
+        "hedaotao_id": 2,
+        "trinhdodaotao_id": 13,
+        "vanbang_duoccap": "",
+        "cosodaotao_ngoaidanhmuc": false,
+        "cosodaotao_id": 9000,
+        "cosodaotao": "Trường Đại học FPT",
+        "notes": "",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ],
+    "trinhdongoaingu_ids": [
+      {
+        "nhom_daotao": "NGOAINGU", // Cột này mã cần thiết
+        "date_start": "2023-01-01",
+        "date_end": null,
+        "hedaotao_id": 1,
+        "ngoaingu_id": 3,
+        "vanbang_duoccap": "Quản lý tổ chức",
+        "trinhdodaotao_id": 1,
+        "diem": "",
+        "cosodaotao_ngoaidanhmuc": false,
+        "cosodaotao_id": 9000,
+        "cosodaotao": "Trường Đại học FPT",
+        "notes": "",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ],
+    "quocphong_anninh_ids": [
+      {
+        "nhom_daotao": "QPAN", // Cột này mã cần thiết
+        "date_start": "2023-01-01",
+        "date_end": "2023-08-01",
+        "vanbang_duoccap": "Quản lý tổ chức",
+        "cosodaotao_ngoaidanhmuc": false,
+        "cosodaotao_id": 8937,
+        "cosodaotao": "Trường Đại học Công nghệ (ĐHQG Hà Nội)",
+        "notes": "",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ],
+
+    "tieng_dantoc_ids": [
+      {
+        "nhom_daotao": "TDT",
+        "date_start": "2023-01-01",
+        "date_end": "2023-05-01",
+        "hedaotao_id": 2,
+        "tieng_dantoc_id": 3,
+        "vanbang_duoccap": "Quản lý tổ chức",
+        "cosodaotao_ngoaidanhmuc": false,
+        "cosodaotao_id": 8937,
+        "cosodaotao": "Trường Đại học Công nghệ (ĐHQG Hà Nội)",
+        "notes": "",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ],
+
+    "vnpt_daotaoboiduong_ids": [
+      {
+        "ten_khoadaotao": "5",
+        "start_date": "2023-04-04",
+        "end_date": null,
+        "noidaotao": "555",
+        "hedaotao_id": 185,
+        "field_training_id": 22,
+        "result": "555",
+        "certificate": false,
+        "thoigian_daotao": "555",
+        "chungchi_id": false,
+        "ngay_cap": null,
+        "provided": "",
+        "date_start_chungchi": null,
+        "date_end_chungchi": null,
+        "international_certificate": false,
+        "notes": "5",
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ],
+        "status_employee_edition": false
+      }
+    ],
+    "vnpt_chung_chi_hanh_nghe_ids": [
+      {
+        "name": "2",
+        "vnpt_ngay_bat_dau": "2023-04-04",
+        "vnpt_ngay_ket_thuc": null,
+        "so_chung_chi_hanh_nghe": "2",
+        "van_chuyen_mon": "123123",
+        "ngay_cap": "2023-04-04",
+        "vnpt_co_so_dao_tao": "123123",
+        "noicap": "2323",
+        "pham_vi_chuyen_mon": "12321",
+        "vnpt_chuyen_nganh_dao_tao": "2131231",
+        "notes": "21312312",
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ]
+  },
+  "qua_trinh_cong_tac": {
+    "vnpt_quatrinhcongtac_ids": [
+      {
+        "loai_quyet_dinh": "other",
+        "vnpt_ngay_bat_dau": "2023-01-01",
+        "vnpt_ngay_ket_thuc": "2023-06-01",
+        "name_id": "Tổ Kế Hoạch Đầu Tư",
+        "vitricongviec": "",
+        "job_code": "",
+        "lydonghiviec": "",
+        "mucthunhap": "",
+        "trongnganh_ok": false,
+        "notes": "",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ],
+
+    "vnpt_congtacnuocngoai_ids": [
+      {
+        "date_start": "2023-04-03",
+        "date_end": "2023-04-13",
+        "department_options": "1",
+        "name": "BÙI THỊ CHIỂN",
+        "donvicudi": 26,
+        "country_id": false,
+        "notes": "",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ]
+  },
+  "khen_thuong_ky_luat": {
+    "vnpt_khenthuong_ids": [
+      {
+        "loai_khenthuong_id": 1,
+        "felicitation_year": 2023,
+        "cap_khenthuong_id": 1,
+        "ngayquyetdinh": "2023-04-19",
+        "name": "",
+        "soquyetdinh": "",
+        "hinhthuckhenthuong": 1,
+        "nguoiquyetdinh": "",
+        "danhhieukhenthuong_id": 60,
+        "noiquyetdinh": "",
+        "anhhuong_nangluong": false,
+        "khenthuong_caonhat": false,
+        "daxet_nangluong": false,
+        "notes": "",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ],
+
+    "vnpt_kyluat_ids": [
+      {
+        "loai_kyluat_id": 1,
+        "ngayquyetdinh": "2023-01-01",
+        "den_ngay": "2023-05-01",
+        "cap_kyluat_id": 1,
+        "soquyetdinh": "dá",
+        "name": "Ăn trộm",
+        "nguoiquyetdinh": "",
+        "hinhthuckyluat": 2,
+        "noiquyetdinh": "ádad",
+        "anhhuong_nangluong": false,
+        "kyluat_caonhat": false,
+        "notes": "",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ]
+  },
+  "danh_gia_phan_loai": {
+    "vnpt_quatrinhdanhgia_ids": [
+      {
+        "state": "tukhai", // Yêu cầu nếu là thêm mới => mắc định là tự khai
+        "year": 1990,
+        "nguoi_danh_gia": "sadads",
+        "result": 1,
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ],
+    "nhanxetdonviquanly": "Nhận xét, đánh giá của cơ quan, đơn vị quản lý và sử dụng cán bộ, công chức\n"
+  },
+  "dang_doan": {
+    "vnpt_la_dang_vien_ok": true,
+    "so_the_dang": "1234567",
+    "ngay_cap_the": "2023-04-03",
+    "dangbo_cap_the": "adad",
+    "vnpt_ngay_vao_dang": "2023-04-03",
+    "chibodang_dubi": "HANoi",
+    "dangbo_dubi": "ad",
+    "nguoi_gioi_thieu_1": "Người giới thiệu 1",
+    "congviec_1": "Người giới thiệu 1",
+    "nguoi_gioi_thieu_2": "Người giới thiệu 2",
+    "congviec_2": "Làm gì? Ở đâu",
+    "ngaychinhthucvaodang": "2024-04-02",
+    "chibodang_ct": "ad",
+    "dangbo_ct": "ád",
+    "ngay_ket_nap_dang_lan2": "2023-04-18",
+    "chibodang_ketnap_lan2": "ada",
+    "dangbo_ketnap_lan2": "adad",
+    "ngay_ra_khoi_dang": "2023-04-13",
+    "nguoi_gioi_thieu": "adad",
+    "lydo_giandoan": "adad",
+    "ngoai_donvi_quanly": true,
+    "chibochinhthucvaodang": "adad",
+    "dangboketnapdang": "adad",
+    "dangbo_ngaychuyenden": "2023-04-05",
+    "chucvu_dang": 2,
+    "chucvudang_kiemnhiem_ids": [ 1 ],
+    "vnpt_quatrinhsinhhoatdang_ids": [
+      {
+        "vnpt_ngay_bat_dau": "2023-03-27",
+        "vnpt_ngay_ket_thuc": "2023-04-23",
+        "donvi_sinhhoat": "adada",
+        "chucvu": 1,
+        "notes": "ad",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ],
+    "vnpt_la_doan_vien_ok": true,
+    "vnpt_ngay_vao_doan": "2023-04-12",
+    "vnpt_noi_ket_nap_doan": "adad",
+    "chucvudoan": 9,
+    "vnpt_quatrinhsinhhoatdoan_ids": [
+      {
+        "vnpt_ngay_bat_dau": "2023-03-27",
+        "vnpt_ngay_ket_thuc": "2023-04-23",
+        "donvi_sinhhoat": "adad",
+        "chucvu": 9,
+        "notes": "",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ]
+  },
+  "lich_su_ban_than": {
+    "bibattu": "Đặc điểm lịch sử bản thân",
+
+    "lamviec_chedocu_ids": [
+      {
+        "date_start": "2023-01-01",
+        "date_end": "2023-05-01",
+        "notes": "ádad",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ],
+
+    "thamgia_tochuc_nuocngoai_ids": [
+      {
+        "date_start": "2023-01-01",
+        "date_end": "2023-09-01",
+        "notes": "adad",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ],
+    "thannhannuocngoai": "ha, Mẹ, Vợ, Chồng, con, anh c",
+    "vnpt_muc_tieu_ca_nhan": "c tiêu cá n",
+    "vnpt_so_thich": "Sở thích",
+    "vnpt_diem_manh": "ểm mạnh",
+    "vnpt_diem_yeu": "m yếu",
+    "vandekhac": " đề khác bổ sung"
+  },
+  "hoan_canh_kinh_te": {
+    "nguonthunhapchinh_luong": "Lương",
+    "nguonthunhapchinh_khac": "Các nguồn thu nhập khác",
+    "nha_o_ids": [
+      {
+        "mota": "dsasd",
+        "loai_dat": "1",
+        "giay_chung_nhan": "fdfd",
+        "dien_tich": 10,
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ],
+
+    "dat_o_ids": [
+      {
+        "mota": "adad",
+        "loai_dat": "1",
+        "giay_chung_nhan": "dsfdsf",
+        "dien_tich": 10,
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ],
+    "dat_sanxuat_kinhdoanh": "Đất sản xuất, kinh doanh"
+  },
+  "thong_tin_khac": {
+    "vnpt_trang_thai_suc_khoe": "Sức khỏe loại 1",
+    "vnpt_chieu_cao": 0.67,
+    "vnpt_can_nang": 64,
+    "vnpt_nhommau": 3,
+    "vaccination_status": "",
+    "vnpt_hr_thongtin_suckhoe_ids": [
+      {
+        "year": "2019-01-01",
+        "phan_loai": "2",
+        "tinh_trang_suc_khoe": "ádad",
+        "notes": "",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ],
+    "vaccine_record_ids": [
+      {
+        "vaccine_injection_type_id": 1,
+        "vaccine_injection_ordinal_id": 1,
+        "injection_date": "2023-03-27",
+        "vaccine_name": "",
+        "agency": "",
+        "batch_number": "",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ],
+
+    "vnpt_thamgia_tochuc_xahoi_ids": [
+      {
+        "tochuc_xh": "gdfg",
+        "ngaythamgia": "2023-01-01",
+        "ngay_ket_thuc": "2023-12-01",
+        "chucvu": "dfgd",
+        "mota": "",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ],
+    "vnpt_nghiencuukhoahoc_ids": [
+      {
+        "ngaythamgia": "2023-04-04",
+        "detai": "dgdg",
+        "capdetai": "dgdg",
+        "tucach": "",
+        "ketqua": "",
+        "status_employee_edition": false,
+        "tmp_attachment_ids": [
+          {
+            "name": "abc.png",
+            "store_fname": "72/725631ad8751e0e34b9b0a5e94496815e8003753",
+            "minetype": "image/png"
+          }
+        ]
+      }
+    ]
+  },
+
+  "fields_change": [ "hokhauthuongtru_quan_huyen_id", "hokhauthuongtru_xa_phuong_id", "noiohiennay_quan_huyen_id", "noiohiennay_xa_phuong_id", "vnpt_thongtingiadinh_ids" ],
+
+  "user_login": {
+    "user_id": 11,
+    "username": "bacnx",
+    "password": "VNPT@!@34"
+  }
+}
